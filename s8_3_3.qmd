@@ -1,0 +1,21 @@
+# §8.3.3. Dimensions of Teaching for Evaluation
+
+This guidance adopts the TEval framework ([Austin et al., 2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)), which identifies seven dimensions of teaching for evaluation. Each dimension encompasses one or more of the criteria currently listed in UFPP §7.2.5.2, as shown below:
+
+| TEval Dimension | Current UFPP §7.2.5.2 Criteria |
+|---|---|
+| D1: Goals, Content, and Alignment | Competence in the discipline; organization of courses; relevance of instruction to course objectives |
+| D2: Teaching Practices | Ability to communicate ideas effectively; versatility of teaching techniques; appropriateness of teaching techniques |
+| D3: Class Climate | Relationship with students in class |
+| D4: Achievement of Learning Outcomes | Relevance of instruction to course objectives; methods of evaluating student achievement |
+| D5: Reflection and Iterative Growth | Other factors relating to performance as an instructor |
+| D6: Mentoring and Advising | Effectiveness of student advising |
+| D7: Teaching Service, Scholarship, or Community | Other factors relating to performance as an instructor |
+
+: Mapping of TEval dimensions to current UFPP §7.2.5.2 criteria {.striped}
+
+::: {.callout-tip icon=false title="Proposed revision to UFPP §7.2.5.2"}
+We therefore propose that UFPP §7.2.5.2 be revised to read: "Evaluators shall consider such dimensions as (1) Goals, Content, and Alignment; (2) Teaching Practices; (3) Class Climate; (4) Achievement of Learning Outcomes; (5) Reflection and Iterative Growth; (6) Mentoring and Advising; and (7) Involvement in Teaching Service, Scholarship, or Community."
+:::
+
+Evidence for evaluating teaching comes from three sources: the instructor (e.g., CV, syllabi, course materials, student work samples, reflection), peers or observers (e.g., meeting with instructor, class observation, review of student materials), and students (e.g., Student Perceptions of Learning Experience instrument, letters from students). The sections that follow describe each dimension, the guiding questions evaluators should consider, the sources of evidence appropriate to that dimension, and — where applicable — the limitations of particular evidence sources.

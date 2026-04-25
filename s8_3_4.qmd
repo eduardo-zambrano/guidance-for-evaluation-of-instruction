@@ -1,0 +1,9 @@
+# §8.3.4. Dimension 1: Goals, Content, and Alignment
+
+This dimension is about what students are expected to learn from the courses taught, whether learning goals are clearly articulated in a way that is accessible to all students, whether course goals are appropriate for the course as part of the larger curriculum and for the audience for which it is intended, whether topics are appropriately challenging and related to current issues in the field, whether the materials are high-quality and aligned with course goals, whether the content represents diverse perspectives, and whether assessments are aligned with course goals.
+
+**Sources of evidence:** Syllabi, course materials, reflection, meeting with instructor, class observation, review of student materials.
+
+::: {.callout-note title="Note"}
+This dimension requires disciplinary expertise to evaluate. It is assessed through peer review (syllabi review, class observation, review of course materials) and instructor self-report (reflection), not through student surveys. The Student Perceptions of Learning Experience instrument does not assess this dimension.
+:::

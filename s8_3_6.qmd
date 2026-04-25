@@ -1,0 +1,58 @@
+# §8.3.6. Dimension 3: Class Climate {#sec-class-climate-guidance}
+
+This dimension is about the extent to which the class climate reflects regard for students as persons, is supportive, and cooperative, whether it encourages motivation and engagement for all students, whether all students feel included, how student-student and student-instructor dialogue are fostered, what the students' views of their learning experiences are, and how the instructor has sought student feedback and used it to inform their teaching.
+
+**Sources of evidence:** Syllabi, reflection, class observation, **Student Perceptions of Learning Experience** instrument, letters from students.
+
+This is the only dimension assessed through the **Student Perceptions of Learning Experience (SPLE)** instrument, which asks students to report on six aspects of class climate:
+
+- **Regard for Students** — Regard for students as persons in how the instructor interacts with them.
+- **Consistent Communication and Enforcement of Expectations** — Equitable treatment and consistent application of standards.
+- **Access to Instructor and Instructor Resources** — Perceived accessibility of the instructor for help outside of class.
+- **Perceived Course Coherence** — Whether the student could see connections between course elements.
+- **Participatory Climate** — Whether the classroom environment supports multiple modes of active engagement.
+- **Responsive Learning Environment** — Whether the instructor creates a learning environment that is responsive to all students.
+
+## §8.3.6.1. Interpreting Student Perceptions of Learning Experience results
+
+Evaluators and candidates should interpret SPLE results with care, following the scoring, reporting, and visualization guidelines established in the "Student Perceptions of Learning Experience: Rationale and Broad Principles of Design" report. Key principles include:
+
+- **Frequency distributions and percentages, not averages.** SPLE responses are ordered categorical data. They must not be averaged, and evaluators should examine the full distribution of responses, not any summary statistic.
+- **No cross-comparisons.** SPLE results must not be compared across instructors, courses, departments, or disciplines. Differences in scores may reflect demographic biases, course characteristics, or nonresponse patterns rather than differences in the learning environment.
+- **No extrapolation.** Results from respondents should not be extrapolated to non-respondents. Students who submit evaluations are a self-selected sample of convenience, not a random sample.
+
+## §8.3.6.2. Inherent limitations of student evaluation data
+
+Even when student survey items are framed as experiential reports about class climate — as in the SPLE — rather than as evaluative judgments about teaching effectiveness, evaluators must be mindful of the inherent limitations of student evaluation data. These include, but are not limited to, the following factors ([Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)):
+
+- **Gender bias.** Student evaluations have substantial bias from gender: female instructors sometimes receive lower ratings than objectively less effective male instructors; gender affects ratings of ostensibly "objective" items like promptness; and bias varies across disciplines and differs between male and female students ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1); [MacNell, Driscoll, and Hunt, 2015](https://doi.org/10.1007/s10755-014-9313-4); [Mengel, Sauermann, and Zölitz, 2018](https://doi.org/10.1093/jeaa/jvx057)).
+
+- **Racial and ethnic bias.** Evaluations show bias from ethnicity and race ([Chisadza, Nicholls, and Yitbarek, 2019](https://doi.org/10.1016/j.econlet.2019.03.022)), and bias against non-native English speakers ([Subtirelu, 2015](https://doi.org/10.1017/S0047404514000736)).
+
+- **Age and appearance bias.** Evaluations show bias against older instructors ([Bianchini, Lissoni, and Pezzoni, 2013](https://doi.org/10.1080/03043797.2012.742868)) and bias in favor of physically attractive instructors, especially for female faculty ([Wolbring and Riordan, 2016](https://doi.org/10.1016/j.ssresearch.2015.12.009); [Babin et al., 2020](https://doi.org/10.1016/j.econedurev.2020.102019)).
+
+- **Grade expectations.** Evaluations have stronger association with grade *expectations* than with learning ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1)); students reward grades — not learning — by giving high evaluation scores ([Stroebe, 2020](https://doi.org/10.1080/01973533.2020.1756817)).
+
+- **Halo effect.** Students conflate enthusiasm, attractiveness, and other characteristics with effectiveness; enthusiasm is not associated with learning ([Feeley, 2002](https://doi.org/10.1080/03634520216519); [Keeley et al., 2013](https://doi.org/10.1177/0013164412475300); [Michela, 2023](https://doi.org/10.1080/02602938.2022.2086965)).
+
+- **Physical environment.** Evaluations are influenced by the physical condition of the room, time of day, mathematical level of the course, class size, and other factors unrelated to instruction ([Bedard and Kuhn, 2005](https://econ.ucsb.edu/~kelly/ucsb4.pdf)).
+
+- **Fabricated responses.** A substantial fraction of students give demonstrably or deliberately false responses ([Stanfel, 1995](https://doi.org/10.1177/002248719504600209); [Clayson and Haley, 2011](https://doi.org/10.1177/02734753114213)).
+
+- **Non-random samples.** Response rates are typically below 75%. The respondents are not a random sample; standard statistical measures of uncertainty (standard errors, confidence intervals) are inapt ([Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)).
+
+- **Perceived learning does not track actual learning.** Students who learn more may report feeling they learned less, and vice versa ([Deslauriers et al., 2019](https://doi.org/10.1073/pnas.1821936116); [Uttl, White, and Gonzalez, 2017](https://doi.org/10.1016/j.stueduc.2016.08.007)).
+
+## §8.3.6.3. Department-associated questions
+
+Departments are not required to add questions to the Student Perceptions of Learning Experience instrument. The university-wide items are designed to provide a comprehensive assessment of class climate across six aspects, and many departments will find them sufficient.
+
+Departments that wish to add questions should weigh the benefit of additional information against the cost of making the instrument more burdensome for students to complete. A longer survey reduces response rates, and lower response rates weaken the representativeness of the data — undermining the very information the additional questions are meant to provide.
+
+If a department elects to add questions, those questions must meet the same standards that govern the university-wide items. The bar is high:
+
+- **Students must be qualified to answer.** The question must concern something students can report on from their own experience, without requiring disciplinary or pedagogical expertise.
+- **Students must be able to answer with minimal bias.** The question must elicit an experiential report, not an evaluative judgment. Items that ask students to assess teaching effectiveness, course quality, or instructor competence are not permitted, as these are the items the literature identifies as most susceptible to bias.
+- **Closed-ended, structured items only.** Department-associated questions must be closed-ended items on the five-point Likert scale. The university-wide instrument already includes open-ended questions with structured prompts and guardrails designed to minimize equity bias; there is no need for departments to add additional open-ended questions at the department level.
+
+Department-associated questions must use the same five-point ordered categorical (Likert) response scale as the university-wide items (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree, plus Not Applicable). They must be scored and reported identically to the university-wide questions — as frequency distributions of raw counts and percentages, with no numerical averages, no cross-comparisons, and no extrapolation from respondents to non-respondents. Every guardrail established in the Scoring and Reporting Guidelines of the "Student Perceptions of Learning Experience" report for the university-wide items applies in full force to department-associated questions, lest the protections built into the university-level instrument be undone at the department level.

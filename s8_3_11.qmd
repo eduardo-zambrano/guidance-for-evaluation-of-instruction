@@ -1,0 +1,63 @@
+# §8.3.11. Teaching Effectiveness Rubric {#sec-rubric}
+
+The following rubric provides descriptions of teaching practice at three quality tiers — Developing, Proficient, and Expert — for each of the seven dimensions of teaching. This rubric is adapted from the Benchmarks for Teaching Excellence Rubric ([University of Kansas Center for Teaching Excellence, 2024](https://teval.net/)).
+
+Evaluators should use this rubric to organize their assessment of each dimension. The rubric is not a checklist; it describes patterns of practice. An instructor may exhibit characteristics of different tiers across different dimensions, and growth across tiers is expected over the course of a career.
+
+## Dimension 1: Goals, Content, and Alignment
+
+| Developing | Proficient | Expert |
+|---|---|---|
+| Course goals are not articulated, or are unclear, inappropriate, or marginally related to curriculum. Content and materials are outdated or unsuitable. Range of topics is too narrow or too broad. Content is not clearly aligned with curriculum or institutional expectations. | Course goals are articulated and appropriate for curriculum. Content is current and appropriate for topic, students, and curriculum. Course topics have appropriate range. Standard, intellectually sound materials. Course materials reflect multiple viewpoints in the field. | Course goals are well-articulated, high quality, relevant to all students, and clearly connected to program or curricular goals. Content is challenging and innovative or related to current issues in the field. Topics are well-integrated and of appropriate range and depth. High-quality materials, well-aligned with course goals. Course materials reflect multiple perspectives and promote meaningful reflection on them. |
+
+: {.striped}
+
+## Dimension 2: Teaching Practices
+
+| Developing | Proficient | Expert |
+|---|---|---|
+| Courses are not sufficiently planned or organized. Practices are not well-executed and show little development over time. Students lack opportunities to practice critical skills. Student engagement is generally low. Assessments are at inappropriate difficulty level or not well-aligned with course goals. | Courses are well-planned and organized. Standard course practices; follows conventions of discipline and institution. Opportunities for practice or feedback on skills embedded in course goals. Practices elicit student engagement. Assessments are appropriately challenging and tied to course goals. | Courses are well-planned and integrated, with meaningful assignments and assessments. Uses effective or innovative methods to support learning in all students. Activities consistently provide opportunities for practice and feedback. Practices foster high levels of active engagement. Assessments are varied and allow students to demonstrate knowledge through multiple modalities. |
+
+: {.striped}
+
+## Dimension 3: Class Climate
+
+| Developing | Proficient | Expert |
+|---|---|---|
+| Class climate discourages student motivation or self-efficacy. Does not effectively create a responsive learning environment. Consistently negative student reports of instructor access or interaction. Little attempt to address concerns voiced by students. | Class climate promotes student motivation. Fosters a responsive learning environment with regard for students as persons. No consistently negative student reports of instructor access or interaction. Instructor articulates some lessons learned through student feedback. | Climate promotes motivation, self-efficacy, ownership of learning. Instructor models responsive language and behavior. Fosters an open learning environment that promotes student-student and student-instructor dialogue. Student feedback on instructor access and interaction is generally positive. Instructor seeks and is responsive to student feedback. |
+
+: {.striped}
+
+For Dimension 3 (Class Climate), the rubric tiers correspond to patterns observable in the SPLE frequency distributions (see the Scoring and Reporting Guidelines of the "Student Perceptions of Learning Experience" report) and in other evidence of class climate.
+
+## Dimension 4: Achievement of Learning Outcomes
+
+| Developing | Proficient | Expert |
+|---|---|---|
+| Insufficient attention to student understanding; quality of learning is not described or analyzed with clear standards. Evidence of inadequate learning without clear attempts to improve. Quality of learning is insufficient to support success in other contexts. | Standards for evaluating student understanding are clear and generally meet department expectations. Attends to student achievement through formal and informal assessments. Some use of student learning evidence to inform teaching. | Standards for evaluating understanding are clear and connected to program, curriculum, or professional expectations. Consistently attends to student learning, uses it to inform teaching. Efforts to support learning in all students. Quality of learning supports success in other contexts. |
+
+: {.striped}
+
+## Dimension 5: Reflection and Iterative Growth
+
+| Developing | Proficient | Expert |
+|---|---|---|
+| Little or no indication of having reflected upon or learned from prior teaching, evidence of student learning, or peer or student feedback. Little or no indication of efforts to develop as a teacher despite evidence of need. | Continued competent teaching, possibly with minor reflection based on input from peers and/or students. Articulates some lessons learned or changes informed by prior teaching, student learning, or feedback. | Regularly adjusts teaching based on reflection on student learning and other feedback, within or across semesters. Examines student performance after adjustments. Reports improved student outcomes based on past teaching modifications. |
+
+: {.striped}
+
+## Dimension 6: Mentoring and Advising
+
+| Developing | Proficient | Expert |
+|---|---|---|
+| No indication of effective advising or mentoring (but expected in department). | Some evidence of effective advising and mentoring (define as appropriate for discipline). | Evidence of exceptional quality and time commitment to advising and mentoring (define as appropriate for discipline). |
+
+: {.striped}
+
+## Dimension 7: Involvement in Teaching Service, Scholarship, or Community
+
+| Developing | Proficient | Expert |
+|---|---|---|
+| Little or no evidence of positive contributions to teaching and learning culture in department or institution. Little or no interaction with teaching community. Practices and results of teaching are not shared with others. | Some positive contributions to teaching and learning culture in department or institution. Some engagement with peers on teaching. Has shared teaching practices or results with others. | Consistently positive contributions to teaching and learning culture (e.g., curriculum committees, program assessment, co-curricular activities). Regular engagement with peers on teaching. Presentations or publications to share practices or results of teaching with multiple audiences. Scholarly publications or grant applications related to teaching. |
+
+: {.striped}

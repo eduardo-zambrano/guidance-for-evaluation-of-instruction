@@ -1,0 +1,20 @@
+# §8.3.12. Setting Departmental Expectations {#sec-dept-expectations}
+
+Not all seven dimensions apply to every instructor. Some faculty may play no role in student advising or mentoring; others may not engage in teaching-related service, scholarship, or community activities. The TEval framework recognizes this explicitly: "alternative configurations are possible, and departments, programs, or institutions can customize the dimensions to suit their needs" ([Austin et al., 2025, p. 26](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)). Evidence collection should fit each instructor's activities. Departments should identify which dimensions are applicable to each faculty role and evaluate accordingly — an instructor should not be penalized for the absence of activity in a dimension that is not part of their responsibilities.
+
+For the rubric to function as a tool for personnel evaluation, departments and programs must establish and document expectations for each career phase. These expectations should specify the rubric tier expected for each applicable dimension, recognizing that faculty develop across dimensions at different rates and that departmental missions may weight some dimensions more heavily than others. The rubric is intended to guide holistic professional judgment, not to replace it. Evaluators should consider the full pattern of a candidate's teaching practice rather than treating the rubric as a checklist of minimum requirements.
+
+::: {.callout-tip icon=false title="Template for departmental expectations"}
+Departments should adopt language such as the following, adapted to their context and documented in their personnel policies:
+
+*"For [career phase: e.g., retention of tenure-track faculty / tenure / promotion to full professor], the candidate is expected to demonstrate performance at the [tier] level or above in Dimensions [list]. A trajectory of growth from [tier] toward [tier] is expected in Dimensions [list]. Performance at the Developing level in any dimension should be accompanied by a documented plan for improvement."*
+
+Specific expectations may vary by department. For example, a department with a strong emphasis on undergraduate mentoring may set higher expectations for Dimension 6 (Mentoring and Advising), while a department with a significant graduate program may weight Dimension 4 (Achievement of Learning Outcomes) more heavily.
+:::
+
+Departmental expectations should be:
+
+- Established through faculty-based governance procedures.
+- Documented in department or program personnel policies.
+- Communicated to candidates in advance of the evaluation cycle.
+- Reviewed periodically to ensure alignment with the university's evolving expectations for teaching.

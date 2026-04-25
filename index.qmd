@@ -1,0 +1,5 @@
+# Preamble {.unnumbered}
+
+This document provides guidance for the evaluation of instruction in a format that can be directly incorporated into the University Faculty Personnel Policies (UFPP) as §8.3. The section numbering, structure, and language are designed so that, upon approval by the Academic Senate, this text can serve as the basis for the corresponding UFPP section with minimal modification.
+
+This guidance addresses the **summative** evaluation of teaching as understood and required by the UFPP and the [Collective Bargaining Agreement](https://www.calstate.edu/csu-system/faculty-staff/labor-and-employee-relations/Pages/unit3-cfa.aspx) — that is, the formal assessment of teaching effectiveness for purposes of retention, tenure, promotion, and other personnel decisions. It is distinct from the **formative** assessment of teaching, which is an informal, voluntary, ongoing process of instructor development offered through the Center for Teaching, Learning and Technology (CTLT). The formative process is described in a separate companion document, [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/).

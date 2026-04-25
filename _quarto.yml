@@ -1,0 +1,60 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Guidance for Evaluation of Instruction"
+  subtitle: "A Companion to 'Student Perceptions of Learning Experience: Rationale and Broad Principles of Design'"
+  author: "Sub-Committee of the Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
+  date: today
+  downloads: [pdf]
+  chapters:
+    - index.qmd
+    - s8_3_1.qmd
+    - s8_3_2.qmd
+    - s8_3_3.qmd
+    - s8_3_4.qmd
+    - s8_3_5.qmd
+    - s8_3_6.qmd
+    - s8_3_7.qmd
+    - s8_3_8.qmd
+    - s8_3_9.qmd
+    - s8_3_10.qmd
+    - s8_3_11.qmd
+    - s8_3_12.qmd
+    - s8_3_13.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc-depth: 3
+    number-sections: false
+    fontsize: 1.05em
+    linestretch: 1.4
+    mainfont: "Palatino, Georgia, serif"
+  pdf:
+    documentclass: report
+    papersize: letter
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1.25in
+    fontsize: 11pt
+    mainfont: "TeX Gyre Pagella"
+    sansfont: "TeX Gyre Heros"
+    linestretch: 1.15
+    number-sections: false
+    colorlinks: true
+    linkcolor: BurntOrange
+    urlcolor: BurntOrange
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \usepackage{titlesec}
+        \titleformat{\section}{\Large\bfseries\sffamily}{\thesection}{1em}{}
+        \titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{1em}{}
+        \titlespacing*{\section}{0pt}{1.5em}{0.75em}
+        \titlespacing*{\subsection}{0pt}{1.25em}{0.5em}

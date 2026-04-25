@@ -1,0 +1,15 @@
+# §8.3.13. Training, Resources, and Implementation {#sec-training}
+
+The evaluation framework described in this guidance represents a substantial change from current practice. Evaluators should not be expected to implement it without adequate preparation, and instructors should not be expected to navigate it without clear guidance. Prior to implementation, the university must invest in training for evaluators and orientation for instructors.
+
+**Training for evaluators.** All faculty who serve on peer review committees should receive training on the seven-dimension framework, the teaching effectiveness rubric, and the proper interpretation of Student Perceptions of Learning Experience data — including the inherent limitations described in @sec-class-climate-guidance. Training should include **norming sessions** in which evaluators from the same peer review committee review sample evidence portfolios and calibrate their application of the rubric. Norming is essential to ensure that evaluators across the university understand and use the instruments and evaluation framework in a coherent way, so that the quality of an instructor's evaluation does not depend on which committee reviews it. Cross-departmental norming sessions are also recommended so that college and university-level review committees apply consistent standards. For this same reason, Deans, and the Provost, should receive the training as well.
+
+**Guidance for instructors.** Instructors should receive clear guidance on the evaluation framework before their first evaluation cycle under the new system. This guidance should explain the seven dimensions, the rubric tiers, the kinds of evidence that are appropriate for each dimension, and how SPLE data will be used. Instructors should understand what is expected of them at their career phase and how to assemble an evidence portfolio.
+
+**Resources and tools.** The university should develop and maintain resources to support both evaluators and instructors, including:
+
+- Ready-to-use rubric templates and evidence portfolio checklists.
+- A website with guidance documents, sample portfolios, and frequently asked questions — modeled on resources such as the [University of Kansas Center for Teaching Excellence](https://cte.ku.edu/benchmarks-teaching-effectiveness) and the [USC Center for Excellence in Teaching](https://cet.usc.edu/instructor-course-evaluation/).
+- Facilitated workshops for peer review committees at the start of each evaluation cycle.
+
+**Phased implementation.** To avoid inconsistency — where some evaluations proceed under the new framework while others follow legacy practices, at a cost to instructors — the university should establish a clear implementation timeline with a defined transition date after which all evaluations follow this guidance.

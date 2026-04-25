@@ -1,0 +1,9 @@
+# §8.3.5. Dimension 2: Teaching Practices
+
+This dimension is about how in-class and out-of-class time is used, whether assignments, assessments, and learning activities are designed to help all students learn, whether effective or high-impact methods are used to improve understanding and engage all students in learning, whether in- and out-of-class activities provide opportunities for practice and feedback on important skills and concepts, and whether forms of assessment are varied to allow for the success of diverse learners.
+
+**Sources of evidence:** Syllabi, course materials, reflection, meeting with instructor, class observation, review of student materials.
+
+::: {.callout-note title="Note"}
+This dimension requires pedagogical expertise to evaluate. It is assessed through peer observation, review of course materials, and instructor reflection, not through student surveys. The Student Perceptions of Learning Experience instrument does not assess this dimension.
+:::

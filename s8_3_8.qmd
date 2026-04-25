@@ -1,0 +1,9 @@
+# §8.3.8. Dimension 5: Reflection and Iterative Growth
+
+This dimension is about how and why the instructor's teaching has changed over time, whether changes have been informed by evidence of student learning and student feedback, how peer feedback has been incorporated into the instructor's teaching over time, and how the instructor's goals for their courses and students have changed over time.
+
+**Sources of evidence:** Syllabi, course materials, student work samples, reflection, meeting with instructor.
+
+::: {.callout-note title="Note"}
+This dimension is assessed through the candidate's reflective narrative and through longitudinal review of course materials and student outcomes. The Student Perceptions of Learning Experience instrument does not assess this dimension, though SPLE results over time may inform the candidate's reflection.
+:::
