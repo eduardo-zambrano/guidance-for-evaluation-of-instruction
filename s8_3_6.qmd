@@ -25,7 +25,7 @@ Evaluators and candidates should interpret SPLE results with care, following the
 
 Even when student survey items are framed as experiential reports about class climate — as in the SPLE — rather than as evaluative judgments about teaching effectiveness, evaluators must be mindful of the inherent limitations of student evaluation data. These include, but are not limited to, the following factors ([Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)):
 
-- **Gender bias.** Student evaluations have substantial bias from gender: female instructors sometimes receive lower ratings than objectively less effective male instructors; gender affects ratings of ostensibly "objective" items like promptness; and bias varies across disciplines and differs between male and female students ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1); [MacNell, Driscoll, and Hunt, 2015](https://doi.org/10.1007/s10755-014-9313-4); [Mengel, Sauermann, and Zölitz, 2018](https://doi.org/10.1093/jeaa/jvx057)).
+- **Gender bias.** Student evaluations have substantial bias from gender: female instructors sometimes receive lower ratings than objectively less effective male instructors; gender affects ratings of ostensibly "objective" items like promptness; and bias varies across disciplines and differs between male and female students ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1); [MacNell, Driscoll, and Hunt, 2015](https://doi.org/10.1007/s10755-014-9313-4); [Mengel, Sauermann, and Zölitz, 2018](https://doi.org/10.1093/jeea/jvx057)).
 
 - **Racial and ethnic bias.** Evaluations show bias from ethnicity and race ([Chisadza, Nicholls, and Yitbarek, 2019](https://doi.org/10.1016/j.econlet.2019.03.022)), and bias against non-native English speakers ([Subtirelu, 2015](https://doi.org/10.1017/S0047404514000736)).
 
@@ -37,7 +37,7 @@ Even when student survey items are framed as experiential reports about class cl
 
 - **Physical environment.** Evaluations are influenced by the physical condition of the room, time of day, mathematical level of the course, class size, and other factors unrelated to instruction ([Bedard and Kuhn, 2005](https://econ.ucsb.edu/~kelly/ucsb4.pdf)).
 
-- **Fabricated responses.** A substantial fraction of students give demonstrably or deliberately false responses ([Stanfel, 1995](https://doi.org/10.1177/002248719504600209); [Clayson and Haley, 2011](https://doi.org/10.1177/02734753114213)).
+- **Fabricated responses.** A substantial fraction of students give demonstrably or deliberately false responses ([Stanfel, 1995](https://www.proquest.com/openview/bd6623148f39be3042fa9a8c77dcb175/1?pq-origsite=gscholar&cbl=2029838); [Clayson and Haley, 2011](https://doi.org/10.2753/MER1052-8008210201)).
 
 - **Non-random samples.** Response rates are typically below 75%. The respondents are not a random sample; standard statistical measures of uncertainty (standard errors, confidence intervals) are inapt ([Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)).
 
